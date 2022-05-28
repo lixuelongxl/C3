@@ -64,7 +64,7 @@
     "@delon/mock": "^12.4.1",
     "@delon/theme": "^12.4.1",
     "@delon/util": "^12.4.1",
-    "@types/three": "^0.134.0",
+    "@types/three": "^0.140.0",
     "@types/webgl2": "^0.0.6",
     "ajv": "^8.6.2",
     "angular-baidu-maps": "^12.0.0",
