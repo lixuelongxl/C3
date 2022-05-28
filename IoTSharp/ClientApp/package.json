@@ -73,7 +73,7 @@
     "echarts": "^5.3.1",
     "file-saver": "^2.0.5",
     "guid-typescript": "^1.0.9",
-    "monaco-editor": "^0.30.1",
+    "monaco-editor": "^0.33.0",
     "ng-zorro-antd": "^12.0.1",
     "ngw-json-view": "^3.0.6",
     "ngx-clipboard": "^14.0.2",
